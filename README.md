@@ -1,10 +1,22 @@
-# todo_app
+# Flutter_Todo_App
 
-A new Flutter project.
+Create a Flutter ToDo app and store todos on local storage.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1 - Clone this repostory
+
+- `git clone https://github.com/waleedrehman31/todo_app.git`
+
+2 - Run the App
+
+- `flutter run`
+
+## Release
+
+Download the App check releases
+
+## Resources
 
 A few resources to get you started if this is your first Flutter project:
 
